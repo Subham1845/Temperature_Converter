@@ -1,0 +1,9 @@
+body {
+  width: 100vh;
+  height: 100vh;
+  display: -ms-grid;
+  display: grid;
+  background-color: #f8e7af;
+  place-items: center;
+}
+/*# sourceMappingURL=styles.css.map */
